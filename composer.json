@@ -1,0 +1,19 @@
+{
+    
+    "require": {
+        "smarty/smarty": "~3.1",
+       "pagseguro/pagseguro-php-sdk" : "^6.0"
+    	
+   },
+              
+    "config": {
+        "vendor-dir":"lib/"  
+        
+    },
+     "autoload":{
+         "classmap":["model/"]
+        }
+        
+    
+
+}
